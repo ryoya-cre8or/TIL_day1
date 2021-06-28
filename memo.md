@@ -151,7 +151,7 @@ Scaffold(
 
 * 表記
 ```
-![見出しの画像](https://github.com/ryoya-cre8tor/TIL_day1/blob/main/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202021-06-28%2017.52.23.png)
+![見出しの画像](https://github.com/ryoya-cre8tor/TIL_day1/blob/main/gif%E3%83%86%E3%82%B9%E3%83%88.gif)
 ```
 ↑↑↑
 
@@ -159,6 +159,6 @@ Scaffold(
 
 * プレビュー
 
-![見出しの画像](https://github.com/ryoya-cre8tor/TIL_day1/blob/main/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202021-06-28%2017.52.23.png)
+![見出しの画像](https://github.com/ryoya-cre8tor/TIL_day1/blob/main/gif%E3%83%86%E3%82%B9%E3%83%88.gif)
 
 
