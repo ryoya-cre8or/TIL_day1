@@ -127,6 +127,7 @@ Scaffold(
 ```
 ***
 ### 記号の直接表示(インラインコード)
+
 表記
 
 ```
@@ -139,6 +140,7 @@ Scaffold(
 ### URLありの画像
 
 表記
+
 ```
 <img src="https://cdn-ssl-devio-img.classmethod.jp/wp-content/uploads/2018/08/flutter-logo-400x400.png" width="300px"/>
 ```
@@ -146,10 +148,13 @@ Scaffold(
 プレビュー
 
 <img src="https://cdn-ssl-devio-img.classmethod.jp/wp-content/uploads/2018/08/flutter-logo-400x400.png" width="300px"/>
+
 ***
-### gif
+
+### gif添付
 
 表記
+
 ```
 <img src="https://github.com/ryoya-cre8tor/TIL_day1/blob/main/gif%E3%83%86%E3%82%B9%E3%83%88.gif" width="300px"/>
 ```
