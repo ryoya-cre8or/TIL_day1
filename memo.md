@@ -140,18 +140,18 @@ Scaffold(
 
 表記
 ```
-![見出しの画像](https://cdn-ssl-devio-img.classmethod.jp/wp-content/uploads/2018/08/flutter-logo-400x400.png)
+<img src="https://cdn-ssl-devio-img.classmethod.jp/wp-content/uploads/2018/08/flutter-logo-400x400.png" width="300px"/>
 ```
 
 プレビュー
 
-![見出しの画像](https://cdn-ssl-devio-img.classmethod.jp/wp-content/uploads/2018/08/flutter-logo-400x400.png)
+<img src="https://cdn-ssl-devio-img.classmethod.jp/wp-content/uploads/2018/08/flutter-logo-400x400.png" width="300px"/>
 ***
-### URLなしの画像、gif等
+### gif
 
 表記
 ```
-![見出しの画像](https://github.com/ryoya-cre8tor/TIL_day1/blob/main/gif%E3%83%86%E3%82%B9%E3%83%88.gif)
+<img src="https://github.com/ryoya-cre8tor/TIL_day1/blob/main/gif%E3%83%86%E3%82%B9%E3%83%88.gif" width="300px"/>
 ```
 ↑↑↑
 
@@ -159,7 +159,7 @@ Scaffold(
 
 プレビュー
 
-![見出しの画像](https://github.com/ryoya-cre8tor/TIL_day1/blob/main/gif%E3%83%86%E3%82%B9%E3%83%88.gif)
+<img src="https://github.com/ryoya-cre8tor/TIL_day1/blob/main/gif%E3%83%86%E3%82%B9%E3%83%88.gif" width="300px"/>
 
 ※gifは5秒間30フレームで作成
 
