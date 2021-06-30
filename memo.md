@@ -153,9 +153,7 @@ Scaffold(
 ```
 <img src="https://github.com/ryoya-cre8tor/TIL_day1/blob/main/gif%E3%83%86%E3%82%B9%E3%83%88.gif" width="300px"/>
 ```
-↑↑↑
 
-(リポジトリに画像を追加するしかない？)
 
 プレビュー
 
